@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a69ac78-2af1-4538-8b18-6820735ad278": {
+      "ProjectGuid": "5a69ac78-2af1-4538-8b18-6820735ad278",
+      "DisplayName": "dotnet-unit-tests",
+      "ColorIndex": 0
+    },
+    "52ad5b2e-72c9-4cf8-b82b-4e933b6c3bda": {
+      "ProjectGuid": "52ad5b2e-72c9-4cf8-b82b-4e933b6c3bda",
+      "DisplayName": "project-test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
